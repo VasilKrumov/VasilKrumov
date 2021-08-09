@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VasilKrumov
+- 👀 I’m interested in JS, React, React Native, Typescript, NodeJS, Apollo, GraphQL
+- 🌱 I’m currently learning Apollo & GraphQL
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me vassil.krumov@gmail.com
