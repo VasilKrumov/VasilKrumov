@@ -1,22 +1,11 @@
-### Hi there, I'm Vasil Krumov 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/VasilKrumov)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVasilKrumov&screen_name=VasilKrumov)
+# Hi there, I am Vasil Krumov 👋
 
 ## I'm a JS Developer from Bulgaria
 
 - 🔭 I am a very motivated self-learner
 - 🎮 In my free time I'm am incredibly passioned gamer
-- 📝 I want to start a dev blog soon
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="margin-right: 4px" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin-right: 4px"/>
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="margin-right: 4px"/>
@@ -29,9 +18,25 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin-right: 4px"/>
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="margin-right: 4px"/>
 
+<br />
+<br />
 
-<br />
-<br />
+### You can find my example projects below:
+
+#### next-blog
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+The "next-blog" repository is a project aimed at developing a personal blog website using the Next.js framework. It provides a foundation for creating a fast, server-rendered, and SEO-friendly blog. The blog includes features such as Markdown support, dynamic routing, SEO optimization, responsive design, syntax highlighting, pagination, and customization options. Feel free to explore the repository and contribute to its development.
+
+Repository: [VasilKrumov/next-blog](https://github.com/VasilKrumov/next-blog)
+
+## Connect with me:
+
+Feel free to reach out to me through LinkedIn or Twitter if you have any questions, collaboration opportunities, or just want to connect. I'm always open to engaging with fellow developers and enthusiasts.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vasilkrumov/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/VasilKrumov) 
 
 [twitter]: https://twitter.com/VasilKrumov
 [linkedin]: https://www.linkedin.com/in/vasil-krumov-li/
