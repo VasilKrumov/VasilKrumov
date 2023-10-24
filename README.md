@@ -1,9 +1,11 @@
 # Hi there, I am Vasil Krumov 👋
 
-## I'm a JS Developer from Bulgaria
+## I'm a Fullstack Software Engineer from Bulgaria
 
 - 🔭 I am a very motivated self-learner
-- 🎮 In my free time I'm am incredibly passioned gamer
+- 🎮 I am a passionate gamer
+- 📸 I do drone photography
+- 📚 I love readings books and manga
 
 ## Languages and Tools:
 
