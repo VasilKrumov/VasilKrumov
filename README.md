@@ -58,7 +58,7 @@ Repository: [VasilKrumov/Programming-Basics-Book-JS-EN](https://github.com/Vasil
 
 Feel free to reach out to me through LinkedIn or Twitter if you have any questions, collaboration opportunities, or just want to connect. I'm always open to engaging with fellow developers and enthusiasts.
 
-[![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)]([https://skillicons.dev](https://twitter.com/VasilKrumov))
+[![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)]([https://twitter.com/VasilKrumov](https://twitter.com/VasilKrumov))
 [![Twitter](https://skillicons.dev/icons?i=linkedin&theme=light)]([https://skillicons.dev]([https://twitter.com/VasilKrumov](https://www.linkedin.com/in/vasil-krumov-li/)))
 
 
