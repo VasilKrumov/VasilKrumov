@@ -12,6 +12,13 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,graphql,tailwind,sass,html,css,figma,jenkins,git,idea&theme=light)](https://skillicons.dev)
 <br />
 
+## Connect with me:
+
+Feel free to reach out to me through LinkedIn or Twitter if you have any questions, collaboration opportunities, or just want to connect. I'm always open to engaging with fellow developers and enthusiasts.
+
+[![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/VasilKrumov)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/vasil-krumov-li/)
+
 ### You can find my example projects below:
 
 #### next-blog
@@ -54,11 +61,6 @@ The "Programming Basics Book (JS-EN)" repository contains a comprehensive guide 
 
 Repository: [VasilKrumov/Programming-Basics-Book-JS-EN](https://github.com/VasilKrumov/Programming-Basics-Book-JS-EN)
 
-## Connect with me:
 
-Feel free to reach out to me through LinkedIn or Twitter if you have any questions, collaboration opportunities, or just want to connect. I'm always open to engaging with fellow developers and enthusiasts.
-
-[![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/VasilKrumov)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/vasil-krumov-li/)
 
 
