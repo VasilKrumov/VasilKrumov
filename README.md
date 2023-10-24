@@ -9,7 +9,7 @@
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,graphql,tailwind,sass,html,css,figma,idea,jenkins,git,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,graphql,tailwind,sass,html,css,figma,jenkins,git,idea&theme=light)](https://skillicons.dev)
 <br />
 
 ### You can find my example projects below:
