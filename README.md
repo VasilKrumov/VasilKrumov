@@ -17,16 +17,16 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,graphql,tailwind,sass,html,css,figma,jenkins,git,idea&theme=light)](https://skillicons.dev)
 <br />
 
-#### Connect with me:
+### Connect with me:
 
 Feel free to reach out to me through LinkedIn or Twitter if you have any questions, collaboration opportunities, or just want to connect. I'm always open to engaging with fellow developers and enthusiasts.
 
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/VasilKrumov)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/vasil-krumov-li/)
 
-##### You can find my example projects below:
+#### You can find my example projects below:
 
-###### next-blog
+##### next-blog
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -34,7 +34,7 @@ The "next-blog" repository is a project aimed at developing a personal blog webs
 
 Repository: [VasilKrumov/next-blog](https://github.com/VasilKrumov/next-blog)
 
-###### react-native-guess-my-number
+##### react-native-guess-my-number
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -42,7 +42,7 @@ Repository: [VasilKrumov/next-blog](https://github.com/VasilKrumov/next-blog)
 
 Repository: [VasilKrumov/react-native-guess-my-number](https://github.com/VasilKrumov/react-native-guess-my-number)
 
-###### react-memory-game
+##### react-memory-game
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -50,7 +50,7 @@ Repository: [VasilKrumov/react-native-guess-my-number](https://github.com/VasilK
 
 Repository: [VasilKrumov/react-memory-game](https://github.com/VasilKrumov/react-memory-game)
 
-###### Javascript
+##### Javascript
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -58,7 +58,7 @@ The "Javascript" repository is a collection of JavaScript projects, code snippet
 
 Repository: [VasilKrumov/Javascript](https://github.com/VasilKrumov/Javascript)
 
-###### Programming Basics Book (JS-EN)
+##### Programming Basics Book (JS-EN)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
