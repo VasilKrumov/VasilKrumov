@@ -26,6 +26,16 @@ Feel free to reach out to me through LinkedIn or Twitter if you have any questio
 
 #### You can find my example projects below:
 
+##### next-travel-app
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+"next-travel-app" is a cutting-edge travel application crafted using Next.js. This application provides users with a captivating platform to plan their next travel adventures. With its intuitive design, users can effortlessly navigate through various travel options and information, ensuring an enjoyable planning experience. Its robust structure, powered by technologies like Tailwind CSS and React, underlines performance and seamless user engagement.
+
+Feel free to delve into the code, explore its functionalities, and perhaps contribute to its journey forward.
+
+Repository: [VasilKrumov/next-travel-app](https://github.com/VasilKrumov/next-travel-app)
+
 ##### next-blog
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
