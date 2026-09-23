@@ -1,81 +1,56 @@
-# Hi there, I am Vasil Krumov 👋
+# Vasil Krumov
 
-## Professional Endeavors:
-- 🛠️ Mastering various technologies to deliver cutting-edge solutions.
-- 🔄 Embracing the iterative process, always seeking to improve and refine.
-- 📈 Driven by problem-solving and optimizing performance.
-- 🤝 Collaborating with cross-functional teams to achieve shared objectives.
+**Senior Software Engineer & People Lead · Plovdiv, Bulgaria**
 
-## Leisure Pursuits:
-- 🎮 Delving into immersive gaming experiences.
-- 📸 Capturing the world from above with drone photography.
-- 📚 Journeying through diverse worlds in books and manga.
-- 🤓 Cultivating knowledge through relentless self-directed learning.
+I build web and mobile products with React, Next.js, TypeScript and NestJS, and lead and mentor engineering teams. Along the way I have moved monoliths to micro frontends and legacy React applications onto a modern Next.js stack. On the side I make my own things: Apex, an unofficial Formula 1 companion for iPhone on the App Store, and Sprout & Cauldron, a cozy potion-brewing game for Steam.
 
-### Languages and Tools:
+## Now · September 2026
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,graphql,tailwind,sass,html,css,figma,jenkins,git,idea&theme=light)](https://skillicons.dev)
-<br />
+- **Building** [Sprout & Cauldron](#sprout--cauldron), a potion-brewing game for Steam (Godot 4.7, GDScript)
+- **Maintaining** [Apex for iPhone](#apex-for-iphone): v1.1 went out in September with 10 more App Store languages
 
-### Connect with me:
+## Shipped
 
-Feel free to reach out to me through LinkedIn or Twitter if you have any questions, collaboration opportunities, or just want to connect. I'm always open to engaging with fellow developers and enthusiasts.
+### Apex for iPhone
 
-[![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/VasilKrumov)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/vasil-krumov-li/)
+<a href="https://apps.apple.com/us/app/apex-formula-race-widgets/id6805438150"><img src="assets/app-store-badge.svg" alt="Download on the App Store" width="150"></a>
 
-### You can find my example projects below:
+An unofficial Formula 1 companion, on the App Store as *Apex: Formula Race Widgets* since August 2026. Home screen and lock screen widgets, every race weekend in your local time, a countdown to lights out, the starting grid minutes after qualifying, results, championship standings and session alerts. Free, with an optional Pro tier. No account, no tracking, no ads. An Android version is on the way.
 
-#### next-travel-app
+<p>
+  <img src="assets/apex-1.png" width="220" alt="Apex races tab: countdown to the next race with the circuit outline">
+  <img src="assets/apex-2.png" width="220" alt="Apex widget gallery: Next Race widgets in small, medium and large">
+  <img src="assets/apex-3.png" width="220" alt="Apex results tab: championship standings with team-color bars">
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- Swift and SwiftUI, iOS 17+, no third-party dependencies
+- WidgetKit (home screen and lock screen families), StoreKit 2, local notifications, background refresh
+- XcodeGen project and a local Swift package for the API clients, cache and shared widget views
+- Built on open data: [Jolpica-F1](https://github.com/jolpica/jolpica-f1), [OpenF1](https://openf1.org) and [community circuit outlines](https://github.com/bacinger/f1-circuits)
+- Source is private; the [support and privacy pages](https://vasilkrumov.github.io/) are served from [vasilkrumov.github.io](https://github.com/VasilKrumov/VasilKrumov.github.io)
 
-"next-travel-app" is a cutting-edge travel application crafted using Next.js. This application provides users with a captivating platform to plan their next travel adventures. With its intuitive design, users can effortlessly navigate through various travel options and information, ensuring an enjoyable planning experience. Its robust structure, powered by technologies like Tailwind CSS and React, underlines performance and seamless user engagement.
+<sub>Apex is an independent, unofficial app and is not associated in any way with the Formula 1 companies. F1, FORMULA ONE, FORMULA 1 and GRAND PRIX are trade marks of Formula One Licensing B.V.</sub>
 
-Feel free to delve into the code, explore its functionalities, and perhaps contribute to its journey forward.
+## In progress
 
-Repository: [VasilKrumov/next-travel-app](https://github.com/VasilKrumov/next-travel-app)
+### Sprout & Cauldron
 
-#### next-blog
+A short, cozy incremental game for Steam, played one in-game day at a time. Each morning you pick the day's herbs in the garden. Then you open the shop, brew potions at the hearth for the customers at the counter, sell or barter them and spend the silver and gold on the upgrade board before the next day. Every action is a small skill check, and none of them is a race.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- Godot 4.7, statically typed GDScript, 2D; exports for Windows, macOS and Linux
+- The game logic is a pure simulation with no scene nodes, so a headless balance bot plays 120 in-game days in seconds and a reloaded day replays exactly
+- Data-driven content: plants, potions, customers, achievements and a 59-node upgrade board generated from a CSV; a translation pipeline for 12 languages that rejects machine translation (English only so far); no AI-generated art, audio or translations
+- Source is private; Steam page coming
 
-The "next-blog" repository is a project aimed at developing a personal blog website using the Next.js framework. It provides a foundation for creating a fast, server-rendered, and SEO-friendly blog. The blog includes features such as Markdown support, dynamic routing, SEO optimization, responsive design, syntax highlighting, pagination, and customization options. Feel free to explore the repository and contribute to its development.
+## Stack
 
-Repository: [VasilKrumov/next-blog](https://github.com/VasilKrumov/next-blog)
+| Area | Tools |
+|---|---|
+| **Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs" height="40" alt="Next.js, React, TypeScript, Node.js, NestJS"><br>Next.js · React · TypeScript · Node.js · NestJS · Tailwind CSS · GraphQL and Apollo · accessibility (WCAG) |
+| **Native** | <img src="https://skillicons.dev/icons?i=swift,kotlin" height="40" alt="Swift, Kotlin"><br>Swift · SwiftUI · WidgetKit · StoreKit 2 · Kotlin · Jetpack Compose · React Native |
+| **Games** | <img src="https://skillicons.dev/icons?i=godot" height="40" alt="Godot"><br>Godot 4 · GDScript |
+| **Cloud and tooling** | <img src="https://skillicons.dev/icons?i=aws,docker,vercel,githubactions" height="40" alt="AWS, Docker, Vercel, GitHub Actions"><br>AWS (Lambda, DynamoDB, Cognito, CDK) · Azure Fundamentals ([certified](https://learn.microsoft.com/en-us/users/vasilkrumov-1337/credentials/1ec70afa82567344)) · Docker · Vercel · GitHub Actions · Vitest · Jest · Playwright · Figma |
 
-#### react-native-guess-my-number
+## Contact
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-"react-native-guess-my-number" is a mobile application developed using React Native. It is a fun number guessing game where the user tries to guess a randomly generated number within a certain range. The app provides a user-friendly interface and interactive gameplay. Test your guessing skills and see how quickly you can find the hidden number.
-
-Repository: [VasilKrumov/react-native-guess-my-number](https://github.com/VasilKrumov/react-native-guess-my-number)
-
-#### react-memory-game
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-"react-memory-game" is a memory game built with React. It challenges your memory by presenting a grid of cards with different images. The objective is to find matching pairs by flipping the cards and remembering their positions. With each successful match, the cards stay flipped. The game features different difficulty levels and keeps track of your score and time.
-
-Repository: [VasilKrumov/react-memory-game](https://github.com/VasilKrumov/react-memory-game)
-
-#### Javascript
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-The "Javascript" repository is a collection of JavaScript projects, code snippets, and examples that demonstrate various concepts and techniques of the JavaScript programming language. It covers topics ranging from basic JavaScript syntax to advanced topics such as asynchronous programming, object-oriented programming, and functional programming. Whether you are a beginner learning JavaScript or an experienced developer looking to enhance your skills, this repository offers valuable resources and hands-on examples to deepen your understanding of JavaScript.
-
-Repository: [VasilKrumov/Javascript](https://github.com/VasilKrumov/Javascript)
-
-#### Programming Basics Book (JS-EN)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-The "Programming Basics Book (JS-EN)" repository contains a comprehensive guide and exercises for learning the fundamentals of programming using JavaScript. It is designed to provide beginners with a solid foundation in programming concepts, problem-solving techniques, and JavaScript syntax. The repository includes chapters covering topics such as variables, loops, conditional statements, functions, arrays, and objects. Each chapter consists of explanations, code examples, and hands-on exercises to reinforce learning. Whether you are new to programming or want to strengthen your JavaScript skills, this repository serves as a valuable resource for learning and practicing programming basics.
-
-Repository: [VasilKrumov/Programming-Basics-Book-JS-EN](https://github.com/VasilKrumov/Programming-Basics-Book-JS-EN)
-
-
-
-
+[LinkedIn](https://www.linkedin.com/in/vasil-krumov-li/) is the best place to reach me. I'm also on [X](https://x.com/VasilKrumov).
